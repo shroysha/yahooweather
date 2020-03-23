@@ -1,5 +1,5 @@
 # yahooweather
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive/yahooweather](https://github.com/shroysha/shroysha.github.io/tree/master/archive/yahooweather)
+> see code: [https://github.com/shroysha/yahooweather](https://github.com/shroysha/yahooweather)
 
 ## Description
 null
