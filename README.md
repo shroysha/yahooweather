@@ -1,7 +1,7 @@
 # yahooweather
 
 ## Description
-null
+Yahoo Weather widget. Made for practice
 
 ### Tags
 [Java]
